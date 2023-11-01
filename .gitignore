@@ -1,0 +1,11 @@
+.vs
+/Practice.API/bin/Debug/net6.0
+/Practice.Application/bin/Debug/net6.0
+/Practice.API/obj
+/Practice.Application/obj
+/Practice.Domain/obj
+/Practice.Domain/bin/Debug/net6.0
+/Practice.Infrastructure/bin/Debug/net6.0
+/Practice.Infrastructure/obj
+/Practice.Persistence/bin/Debug/net6.0
+/Practice.Persistence/obj
